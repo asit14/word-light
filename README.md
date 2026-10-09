@@ -2,7 +2,31 @@
 
 WordLite is a production-quality, high-performance desktop word processor for **macOS and Windows**, engineered to provide the essential features of Microsoft Word while remaining exceptionally fast and usable on low-end computers with only **2 GB of system RAM**.
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/asit14/word-light/main/WordLite.dmg">
+    <img src="https://img.shields.io/badge/Download%20for%20macOS-WordLite.dmg%20(2.4%20MB)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download WordLite for macOS" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/asit14/word-light/main/WordLite.exe">
+    <img src="https://img.shields.io/badge/Download%20for%20Windows-WordLite.exe%20(4.9%20MB)-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download WordLite for Windows" />
+  </a>
+</p>
+
 ---
+
+## 📥 Downloads & Installation
+
+Click the download buttons below to download the native application directly to your computer:
+
+| Platform | Download Link | File Size | Instructions |
+| :--- | :--- | :--- | :--- |
+| **macOS** | [⬇️ **Download WordLite.dmg**](https://raw.githubusercontent.com/asit14/word-light/main/WordLite.dmg) | **2.4 MB** | 1. Click download to get `WordLite.dmg`<br>2. Double-click the downloaded `.dmg`<br>3. Drag **WordLite** into your **Applications** folder |
+| **Windows** | [⬇️ **Download WordLite.exe**](https://raw.githubusercontent.com/asit14/word-light/main/WordLite.exe) | **4.9 MB** | 1. Click download to get `WordLite.exe`<br>2. Double-click `WordLite.exe` to launch immediately (no installer required) |
+
+> **Note:** Direct raw download mirrors are also available:
+> - macOS Mirror: [github.com/.../WordLite.dmg](https://github.com/asit14/word-light/raw/main/WordLite.dmg)
+> - Windows Mirror: [github.com/.../WordLite.exe](https://github.com/asit14/word-light/raw/main/WordLite.exe)
+
 
 ## Key Highlights
 
