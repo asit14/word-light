@@ -1,0 +1,14 @@
+# Software License and Support Agreement
+
+This Agreement is entered into on October 9, 2026, by and between:
+- WordLite Solutions LLC ("Licensor")
+- Client Organization ("Licensee")
+
+1. GRANT OF LICENSE
+Licensor grants to Licensee a non-exclusive, perpetual, offline desktop license to execute WordLite on internal workstation equipment.
+
+2. SYSTEM FOOTPRINT & SPECIFICATIONS
+The software is engineered to operate without external network dependencies, sustaining an idle memory footprint under 150 MB and operating stably on systems equipped with 2 GB RAM.
+
+3. DATA SOVEREIGNTY
+All document data, recovery caches, and exported files remain 100% strictly local to the host operating system filesystem.
